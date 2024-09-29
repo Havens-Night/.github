@@ -1,5 +1,5 @@
 # RE Engine:
-### [General Modding Documentation - WIP](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki)
+### [Modding Documentation - WIP](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki)
 Table of Contents:
 > 1. [Installing Mods](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki/Installing-Mods)
 > 1. [Packaging Mods](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki/Packaging-Mods)
